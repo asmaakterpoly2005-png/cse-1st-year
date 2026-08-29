@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("Now\n I amreading");
+	printf("Now\n I am reading");
 	return 0;
 }
