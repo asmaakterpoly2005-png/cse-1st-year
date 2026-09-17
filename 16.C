@@ -13,7 +13,7 @@ int main()
                 printf("Max%d\n",d);
             }
  
-        } else if{
+        } else{
             if(c>d){
                 printf("Max%d\n",c);
             }
@@ -21,7 +21,7 @@ int main()
                 printf("Max%d\n",d);
             }
         }
-    } else if{
+    } else{
         if(b>c){
             if(b>d){
                 printf("Max%d\n",b);
@@ -30,8 +30,8 @@ int main()
                 printf("Max%d\n",d);
             }
          }
-        }else if{
-            if(c>d){
+        else{
+        if(c>d){
                 printf("Max%d\n",c);
             }
             else{
@@ -39,5 +39,8 @@ int main()
             }
         }
     }
-return 0;
+    return 0;
 }
+    
+
+
